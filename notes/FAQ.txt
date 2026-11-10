@@ -1,0 +1,2 @@
+Twin?
+Same underlying model as Fable 5.2, different gate.
